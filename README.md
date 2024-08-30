@@ -1,4 +1,4 @@
-# Övning 3
+# Exercise 3
 
 ## Description
 
